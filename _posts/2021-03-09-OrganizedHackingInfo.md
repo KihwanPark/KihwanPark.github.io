@@ -1,4 +1,7 @@
+---
+layout: single
 title:  "Start Hacking"
+---
 # Start Hacking
 
 ## IP주소와 Port번호
